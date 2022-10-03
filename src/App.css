@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  font-size: 5rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 15vw;
+  height: 4vh;
+  text-indent: 0.5rem;
+  border-radius: 4px;
+  border: 2px solid black;
+}
+
+#btn {
+  padding: 0.5rem;
+  margin-left: 1rem;
+}
